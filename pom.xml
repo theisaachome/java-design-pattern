@@ -10,5 +10,6 @@
   </properties>
   <modules>
   	<module>Factory-Method-Pattern</module>
+  	<module>Abstract-Factory-Pattern</module>
   </modules>
 </project>
