@@ -11,5 +11,6 @@
   <modules>
   	<module>Factory-Method-Pattern</module>
   	<module>Abstract-Factory-Pattern</module>
+  	<module>Strategy-patterrn</module>
   </modules>
 </project>
