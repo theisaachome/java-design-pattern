@@ -12,5 +12,6 @@
   	<module>Factory-Method-Pattern</module>
   	<module>Abstract-Factory-Pattern</module>
   	<module>Strategy-patterrn</module>
+  	<module>002-observer-pattern</module>
   </modules>
 </project>
